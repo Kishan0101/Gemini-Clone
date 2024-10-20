@@ -21,4 +21,5 @@
    ```bash
    git clone https://github.com/Kishan0101/Gemini-Clone.git
    cd Gemini-Clone
-## Screenshot
+## Screens![screenshot-localhost_5173-2024_10_20-21_27_48](https://github.com/user-attachments/assets/fe06c6db-c8ef-4fed-8927-d6063c5cddf7)
+hot
